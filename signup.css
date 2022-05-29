@@ -1,0 +1,37 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+h2 {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+
+}
+
+h2 { 
+  display: block;
+  font-size: 1.5em;
+  margin-top: 0.83em;
+  margin-bottom: 0.83em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+  text-decoration: underline;
+}
+fieldset {
+  background-color: #a9aada9a;
+}
+
+legend {
+  background-color: rgb(20, 87, 114);
+  color: white;
+  padding: 10px 10px;
+}
+
+input {
+  margin: 5px;
+}
+label, p {
+  font-weight:bold;
+}
